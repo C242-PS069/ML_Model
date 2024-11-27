@@ -1,25 +1,215 @@
 item {
-    id: 1
-    name: 'cardboard'
+  id: 1
+  name: "Other plastic bottle"
 }
 
 item {
-    id: 2
-    name: 'glass'
+  id: 2
+  name: "Clear plastic bottle"
 }
 
 item {
-    id: 3
-    name: 'metal'
+  id: 3
+  name: "Glass bottle"
 }
 
 item {
-    id: 4
-    name: 'paper'
+  id: 4
+  name: "Plastic bottle cap"
 }
 
 item {
-    id: 5
-    name: 'plastic bottle'
+  id: 5
+  name: "Metal bottle cap"
+}
+
+item {
+  id: 6
+  name: "Broken glass"
+}
+
+item {
+  id: 7
+  name: "Food Can"
+}
+
+item {
+  id: 8
+  name: "Drink can"
+}
+
+item {
+  id: 9
+  name: "Toilet tube"
+}
+
+item {
+  id: 10
+  name: "Egg carton"
+}
+
+item {
+  id: 11
+  name: "Drink carton"
+}
+
+item {
+  id: 12
+  name: "Corrugated carton"
+}
+
+item {
+  id: 13
+  name: "Meal carton"
+}
+
+item {
+  id: 14
+  name: "Pizza box"
+}
+
+item {
+  id: 15
+  name: "Paper cup"
+}
+
+item {
+  id: 16
+  name: "Disposable plastic cup"
+}
+
+item {
+  id: 17
+  name: "Foam cup"
+}
+
+item {
+  id: 18
+  name: "Glass cup"
+}
+
+item {
+  id: 19
+  name: "Other plastic cup"
+}
+
+item {
+  id: 20
+  name: "Other plastic"
+}
+
+item {
+  id: 21
+  name: "Magazine paper"
+}
+
+item {
+  id: 22
+  name: "Wrapping paper"
+}
+
+item {
+  id: 23
+  name: "Normal paper"
+}
+
+item {
+  id: 24
+  name: "Paper bag"
+}
+
+item {
+  id: 25
+  name: "Garbage bag"
+}
+
+item {
+  id: 26
+  name: "Other plastic wrapper"
+}
+
+item {
+  id: 27
+  name: "Single-use carrier bag"
+}
+
+item {
+  id: 28
+  name: "Polypropylene bag"
+}
+
+item {
+  id: 29
+  name: "Crisp packet"
+}
+
+item {
+  id: 30
+  name: "Spread tub"
+}
+
+item {
+  id: 31
+  name: "Other plastic container"
+}
+
+item {
+  id: 32
+  name: "Plastic gloves"
+}
+
+item {
+  id: 33
+  name: "Plastic utensils"
+}
+
+item {
+  id: 34
+  name: "Tupperware"
+}
+
+item {
+  id: 35
+  name: "Disposable food container"
+}
+
+item {
+  id: 36
+  name: "Foam food container"
+}
+
+item {
+  id: 37
+  name: "Pop tab"
+}
+
+item {
+  id: 38
+  name: "Rope & strings"
+}
+
+item {
+  id: 39
+  name: "Scrap metal"
+}
+
+item {
+  id: 40
+  name: "Squeezable tube"
+}
+
+item {
+  id: 41
+  name: "Plastic straw"
+}
+
+item {
+  id: 42
+  name: "Paper straw"
+}
+
+item {
+  id: 43
+  name: "Styrofoam piece"
 }
 
