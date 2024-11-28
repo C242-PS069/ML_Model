@@ -120,96 +120,86 @@ item {
 
 item {
   id: 25
-  name: "Garbage bag"
-}
-
-item {
-  id: 26
   name: "Other plastic wrapper"
 }
 
 item {
-  id: 27
+  id: 26
   name: "Single-use carrier bag"
 }
 
 item {
-  id: 28
+  id: 27
   name: "Polypropylene bag"
 }
 
 item {
-  id: 29
+  id: 28
   name: "Crisp packet"
 }
 
 item {
-  id: 30
+  id: 29
   name: "Spread tub"
 }
 
 item {
-  id: 31
+  id: 30
   name: "Other plastic container"
 }
 
 item {
-  id: 32
+  id: 31
   name: "Plastic gloves"
 }
 
 item {
-  id: 33
+  id: 32
   name: "Plastic utensils"
 }
 
 item {
-  id: 34
-  name: "Tupperware"
-}
-
-item {
-  id: 35
+  id: 33
   name: "Disposable food container"
 }
 
 item {
-  id: 36
+  id: 34
   name: "Foam food container"
 }
 
 item {
-  id: 37
+  id: 35
   name: "Pop tab"
 }
 
 item {
-  id: 38
+  id: 36
   name: "Rope & strings"
 }
 
 item {
-  id: 39
+  id: 37
   name: "Scrap metal"
 }
 
 item {
-  id: 40
+  id: 38
   name: "Squeezable tube"
 }
 
 item {
-  id: 41
+  id: 39
   name: "Plastic straw"
 }
 
 item {
-  id: 42
+  id: 40
   name: "Paper straw"
 }
 
 item {
-  id: 43
+  id: 41
   name: "Styrofoam piece"
 }
 
